@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 6,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Mata y recoge la piel de un ciervo.",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DeerPelt"
+        }
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Entregar Artículos",
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

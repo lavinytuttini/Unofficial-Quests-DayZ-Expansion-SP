@@ -1,0 +1,13 @@
+{
+	"ConfigVersion": 18,
+	"ID": 2,
+	"ObjectiveType": 10,
+	"ObjectiveText": "Vendate las heridas",
+	"TimeLimit": -1,
+	"ActionNames": [
+		"ActionBandageSelf"
+	],
+	"AllowedClassNames": [],
+	"ExcludedClassNames": [],
+	"ExecutionAmount": 1
+}

@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 203,
+    "Type": 1,
+    "Title": "Soy un anti-social",
+    "Descriptions": [
+		"Tu objetivo es eliminar sigilosamente a un jugador rival que representa una amenaza para tu supervivencia en este mundo postapocalíptico. Desplázate con cautela, utiliza tus habilidades de sigilo y táctica para localizar y eliminar a tu adversario antes de que él haga lo mismo contigo. Recuerda, solo debes hacerlo en entornos de riesgo PVP, sino tú valor como mercenario será zero y te daremos una patada.",
+        "¿Todavía no le has dado caza? ¿A qué estás esperando, no eres tan valiente? Vuelve cuando hayas acabado con la vida de otro ser anti-sociopata como tú.",
+        "Recuerda, en este despiadado escenario, solo uno puede sobrevivir. ¿Serás tú quien se alce como el último sobreviviente? Aquí tienes tu recompensa diaria."
+    ],
+    "ObjectiveText": "Mata a un jugador en una zona PVP.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 6,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

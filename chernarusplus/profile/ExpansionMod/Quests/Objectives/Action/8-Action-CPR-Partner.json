@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 8,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Haz CPR a un compañero",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionCPR"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

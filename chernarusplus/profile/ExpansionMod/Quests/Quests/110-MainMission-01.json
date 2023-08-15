@@ -1,0 +1,42 @@
+{
+    "ConfigVersion": 15,
+    "ID": 110,
+    "Type": 1,
+    "Title": "Entre Cuentos y Leyendas",
+    "Descriptions": [
+        "En una tierra envuelta de cuentos y leyendas, deberás embarcarte en una peligrosa misión. Tendrás que buscar la legendaria Espada del Cosmos, una reliquia antigua con el poder de dominar la realidad misma. Según mi abuelo aquí tengo las coordenadas donde podrás encontrar esa reliquia. ¿Podrás hacer uso de su fuerza?",
+        "El reloj avanza y el mundo se ve afectado por la creciente influencia de la espada. ¿A qué esperas para encontrarla?",
+        "Has encontrado la legendaria Espada del Cosmos. Es hora de utilizarla en contra del mal."
+    ],
+    "ObjectiveText": "Encuentra la legendaria Espada del Cosmos.",
+    "FollowUpQuest": 111,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 15,
+    "ID": 402,
+    "Type": 1,
+    "Title": "Pollo frito KFC",
+    "Descriptions": [
+        "Nancy está buscando hacer su famoso pollo frito, pero la perra loca solo usa pollos marrones, no está segura de qué se trata...",
+        "Mata a 3 gallinas marrones y llévaselas a Chester en el comercio central.",
+        "No es KFC pero sigue siendo bueno, aquí está tu recompensa."
+    ],
+    "ObjectiveText": "Mata 3 pollos marrones.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ChickenBreastMeat",
+            "Amount": 5,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+		{
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 300,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+	],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 4,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

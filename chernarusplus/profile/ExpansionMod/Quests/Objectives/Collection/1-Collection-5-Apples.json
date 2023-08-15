@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Recoge 5 manzanas",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "Apple"
+        }
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Entregar Artículos",
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

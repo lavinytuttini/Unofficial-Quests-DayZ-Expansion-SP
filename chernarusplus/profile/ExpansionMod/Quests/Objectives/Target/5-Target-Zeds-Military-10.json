@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 18,
+    "ID": 5,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Mata a 10 militares/NPC infectados",
+    "TimeLimit": -1,
+    "Position": [],
+    "MaxDistance": -1.0,
+    "Target": {
+        "Amount": 10,
+        "ClassNames": [
+            "ZmbM_PatrolNormal_Base",
+			"ZmbM_usSoldier_normal_Woodland",
+			"ZmbM_usSoldier_normal_Desert",
+			"ZmbM_usSoldier_Officer_Desert",
+			"ZmbM_usSoldier_Officer_Convoy",
+            "ZmbM_Soldier_Base",
+            "ZmbM_SoldierNormal_Base",
+            "ZmbM_usSoldier_normal_Base",
+            "ZmbM_NBC_Yellow",
+            "ZmbM_NBC_Grey"
+        ],
+        "CountSelfKill": 0,
+        "SpecialWeapon": 0,
+        "AllowedWeapons": [],
+        "ExcludedClassNames": []
+    }
+}

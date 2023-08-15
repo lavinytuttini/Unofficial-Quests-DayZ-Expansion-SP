@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Lleva al VIP a la ubicación marcada",
+    "TimeLimit": 360,
+    "Position": [
+        3193.590087890625,
+        296.7070007324219,
+        6090.56982421875
+    ],
+    "MaxDistance": 20.0,
+    "AIVIP": {
+        "NPCLoadoutFile": "HumanLoadout"
+    },
+    "MarkerName": "Escolta VIP",
+    "ShowDistance": 1
+}

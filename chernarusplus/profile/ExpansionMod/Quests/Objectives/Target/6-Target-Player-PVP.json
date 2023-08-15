@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 18,
+    "ID": 6,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Elimina a un jugador en una zona PVP",
+    "TimeLimit": -1,
+    "Position": [],
+    "MaxDistance": 1200.0,
+    "Target": {
+        "Amount": 1,
+        "ClassNames": [
+            "SurvivorBase"
+        ],
+        "CountSelfKill": 0,
+        "SpecialWeapon": 0,
+        "AllowedWeapons": [],
+        "ExcludedClassNames": [],
+        "CountAIPlayers": 0
+    }
+}

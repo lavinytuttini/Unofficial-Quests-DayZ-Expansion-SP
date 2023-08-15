@@ -1,0 +1,49 @@
+{
+    "ConfigVersion": 15,
+    "ID": 600,
+    "Type": 1,
+    "Title": "En búsqueda del Tesoro",
+    "Descriptions": [
+        "Rumores sobre un antiguo tesoro oculto en Chernarus comenzaron a circular entre cazadores de tesoros y aventureros. Según los locales, un tesoro perdido de gran valor se encuentra oculto en algún lugar remoto de esta tierra asolada por la guerra. Ahora, un grupo de cazadores de tesoros experimentados ha decidido embarcarse en esta peligrosa y emocionante misión para encontrar este tesoro de Chernarus. En la nota se aprecian unas coordenadas.",
+        "Encuentra el tesoro perdido.",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "Encuentra el tesoro.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "Shovel",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

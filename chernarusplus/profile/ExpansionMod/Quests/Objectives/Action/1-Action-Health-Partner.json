@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Venda a otro superviviente",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionBandageTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

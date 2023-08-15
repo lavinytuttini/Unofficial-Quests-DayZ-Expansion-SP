@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 15,
+    "ID": 101,
+    "Type": 1,
+    "Title": "Un favor para Steve...",
+    "Descriptions": [
+        "Entonces, Peter te envía, ¿hmm? Bueno, tengo lo que quiere, aunque todavía me debe algo... Pero tampoco soy un mal tipo. Digamos que si tú también me haces un favor, también, te daré lo que Peter quiere y aún más... Tengo que vigilar y asegurarme de que no pase nada por aquí. Quiero que tomes este mazo y limpies la aldea con él. Hay algunos infectados que deben ser eliminados antes de que comiencen a moverse al campamento.",
+         "¿Aún no has terminado? Qué difícil puede ser aplastar algunas cabezas con ese martillo... ¡Vuelve cuando termines el trabajo!",
+         "¡Oh, ahí estás! Pensé que los Infectados te agarraron el trasero y te mataron... Bueno, aquí está tu recompensa"
+    ],
+    "ObjectiveText": "Mata a 10 civiles infectados con el mazo de Steve.",
+    "FollowUpQuest": 102,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "SledgeHammer",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "WaterBottle",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "TunaCan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 150,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        100
+    ],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

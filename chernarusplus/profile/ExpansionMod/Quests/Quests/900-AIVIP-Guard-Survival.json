@@ -1,0 +1,53 @@
+{
+  "ConfigVersion": 15,
+  "ID": 900,
+  "Type": 1,
+  "Title": "Superviviente perdido",
+  "Descriptions": [
+    "Este idiota se separó de su grupo y necesita un salvoconducto a casa.",
+    "Acompaña a este idiota de regreso a su casa y hazle saber a Peter que el trabajo se completó.",
+    "Esto no es una guardería, gracias por encargarte de esto. Aquí está tu recompensa."
+  ],
+  "ObjectiveText": "Escolta al superviviente hasta su casa.",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 100,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 18,
+      "ID": 1,
+      "ObjectiveType": 9
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 50,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1
+}

@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 15,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Riega una planta",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionWaterPlant"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

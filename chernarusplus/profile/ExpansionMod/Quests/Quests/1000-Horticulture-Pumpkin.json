@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 15,
+    "ID": 1000,
+    "Type": 1,
+    "Title": "Planta una Calabaza",
+    "Descriptions": [
+        "Planta una calabaza y cultiva tu supervivencia con sangre, sudor y determinación en busca de una cosecha siniestra pero gratificante.",
+        "¿Qué haces aquí? ¿Necesitas que te haga un croquis para plantar una simple calabaza? Venga, haz lo que te digo y no me hagas perder más el tiempo.",
+        "Ahora que ya sabes cultivar podrías preparar esa calabaza para Halloween, ¿te parece? Ten, aquí tienes tu recompensa. Vuelve mañana y te ayudaré a que perfecciones tus habilidades en la horticultura."
+    ],
+    "ObjectiveText": "Planta una semilla de calabaza.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+		{
+			"ClassName": "PumpkinSeedsPack",
+			"Amount": 1,
+			"Attachments": [],
+			"DamagePercent": 0,
+			"HealthPercent": 0,
+            "QuestID": -1
+		}
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 3,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

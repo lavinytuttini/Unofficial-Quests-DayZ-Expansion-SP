@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 13,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Planta una semilla",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionPlantSeed"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

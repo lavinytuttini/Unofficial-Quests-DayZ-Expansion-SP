@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 18,
+    "ID": 3,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Elimina los 3 bandidos con la Espada del Cosmos",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                5813.069824, 
+				248.006119,
+				11285.799805
+            ],
+            [
+                5808.029785, 
+				248.382996, 
+				11283.000000
+            ],
+            [
+                5821.459961, 
+				247.554001, 
+				11288.200195
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditsErikCampLoadout",
+        "NPCAccuracyMin": 0.0,
+        "NPCAccuracyMax": 0.0,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 1,
+        "AllowedWeapons": [
+            "Sword"
+        ]
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 300
+}

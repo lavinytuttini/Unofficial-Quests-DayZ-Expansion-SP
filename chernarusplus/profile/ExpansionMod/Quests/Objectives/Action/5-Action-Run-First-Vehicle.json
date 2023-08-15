@@ -1,0 +1,13 @@
+{
+	"ConfigVersion": 18,
+	"ID": 5,
+	"ObjectiveType": 10,
+	"ObjectiveText": "Arranca el motor de un vehículo",
+	"TimeLimit": -1,
+	"ActionNames": [
+		"ActionStartEngine"
+	],
+	"AllowedClassNames": [],
+	"ExcludedClassNames": [],
+	"ExecutionAmount": 1
+}

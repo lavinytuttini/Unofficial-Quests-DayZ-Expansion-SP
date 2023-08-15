@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 106,
+    "Type": 1,
+    "Title": "Por el Lich... quiero decir ¡por el Rey Amarillo!",
+    "Descriptions": [
+        "¿Conoces la leyenda del casco del Rey Amarillo? Se decía que este casco era la creación de un genio de la robótica y la inteligencia artificial, cuya identidad se mantenía en secreto. El casco tenía la capacidad de acceder a la mente del usuario y mostrarle realidades virtuales nunca antes imaginadas. ¿Qué tal si lo buscas y te sigo contando parte de la historia?",
+        "Aún tenemos que encontrar ese dichoso casco. ¿A qué esperas para traérmelo?",
+        "El Rey Amarillo resultó ser el nombre en clave de un genio de la inteligencia artificial que había vivido en el pasado, conocido por sus avances revolucionarios en la tecnología. Se decía que se había retirado del mundo público y había creado el Casco Amarillo para transmitir sus conocimientos y sabiduría a mentes jóvenes y prometedoras como una forma de legado. Toma aquí tienes, un dinerillo por las molestias."
+    ],
+    "ObjectiveText": "Encuentra el casco del rey amarillo.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 600,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 3,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

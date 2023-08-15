@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 10,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Inyéctate epinefrina",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionInjectEpinephrineSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

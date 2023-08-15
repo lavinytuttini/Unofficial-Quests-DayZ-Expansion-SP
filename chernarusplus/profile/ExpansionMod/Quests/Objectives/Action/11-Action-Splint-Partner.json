@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 11,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Escayola a tu compañero",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionSplintTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 9,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Desinfecta tu cuerpo",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDisinfectSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

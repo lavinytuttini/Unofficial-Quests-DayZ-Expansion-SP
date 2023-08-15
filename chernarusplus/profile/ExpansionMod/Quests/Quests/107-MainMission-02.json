@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 15,
+    "ID": 107,
+    "Type": 1,
+    "Title": "Al Servicio del Rey Amarillo",
+    "Descriptions": [
+        "Finalmente, después de muchos obstáculos y desafíos, un grupo descubrió la ubicación oculta del Casco del Rey Amarillo. Se encontraba en una instalación secreta en medio de un paisaje montañoso y futurista. Allí, ante el casco brillante y amarillo que emanaba un resplandor enigmático, un miembro del grupo se puso el dispositivo en su cabeza. Mientras sigo investigando el caso, ¿por qué no te vas a jugar un rato con los infectados?",
+        "Aún sigo investigando este hermoso casco, y tú todavía tienes tiempo para seguir jugando con esos podridos infectados. Pásate luego.",
+        "Genial. He descubierto que lo que sucedió a continuación fue más allá de lo que cualquier palabra podría describir. Uno de los miembros del grupo experimentó una realidad virtual tan inmersiva y profunda que trascendía los límites del espacio y el tiempo. Viajó por mundos desconocidos, descubrió nuevos horizontes científicos y artísticos y, en última instancia, se conectó con la mente del Rey Amarillo. A través de esta conexión, recibió una visión de cómo la tecnología y la humanidad podrían coexistir armoniosamente, promoviendo el progreso sin perder de vista la importancia del corazón y la empatía. Veo que quieres más, aquí tienes tu recompensa."
+    ],
+    "ObjectiveText": "Acaba con 10 militares/NPC infectados.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 350,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 5,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 150,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        106
+    ],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

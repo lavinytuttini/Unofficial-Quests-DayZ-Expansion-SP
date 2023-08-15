@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 15,
+    "ID": 112,
+    "Type": 1,
+    "Title": "El Heredero del Cosmos",
+    "Descriptions": [
+        "¡No puede ser! Tres bandidos han capturado a mi sobrino Erik. Él era el heredero de esa Espada del Cosmos que portas. Por favor, necesito que vayas a recuperarlo, no podría vivir sin él...",
+        "La Espada del Cosmos brilla con una intensidad inusual mientras los bandidos están ocupados contando sus ganancias mal habidas y celebrando su éxito, necesito encontrarlos, y a Erik también.",
+        "Con Erik en mi corazón y la espada en tus manos, debemos prepararnos para enfrentar futuros desafíos, tenemos que estar listos para proteger este mundo de las sombras que amenazan con consumirlo. Te has ganado esta buena parte del botín."
+    ],
+    "ObjectiveText": "Acaba con los bandidos que han capturado a Erik.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 3000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+		5
+	],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 3,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 800,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		111
+	],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

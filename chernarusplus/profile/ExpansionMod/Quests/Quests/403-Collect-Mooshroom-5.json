@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 403,
+    "Type": 1,
+    "Title": "Caldo de champiñones",
+    "Descriptions": [
+        "La vieja ha estado preguntando por Hongos Agaricus para un estofado de mierda, la próxima vez que salgas, ¿podrías ayudarme a callarla?",
+        "Recoge 5 hongos Agaricus y llévaselos a Peter en el comercio central.",
+        "¡Eso la hará callar!, aquí está tu recompensa."
+    ],
+    "ObjectiveText": "Recoge 5 hongos Agaricus.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 300,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 5,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

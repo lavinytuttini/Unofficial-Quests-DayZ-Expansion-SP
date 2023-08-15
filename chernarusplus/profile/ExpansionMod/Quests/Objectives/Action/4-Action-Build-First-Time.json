@@ -1,0 +1,13 @@
+{
+	"ConfigVersion": 18,
+	"ID": 4,
+	"ObjectiveType": 10,
+	"ObjectiveText": "Realiza una construcción",
+	"TimeLimit": -1,
+	"ActionNames": [
+		"ActionBuildPart"
+	],
+	"AllowedClassNames": [],
+	"ExcludedClassNames": [],
+	"ExecutionAmount": 1  
+}

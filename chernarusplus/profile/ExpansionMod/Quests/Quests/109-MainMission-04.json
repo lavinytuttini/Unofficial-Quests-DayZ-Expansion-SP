@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 15,
+    "ID": 109,
+    "Type": 1,
+    "Title": "Por donde caminan los reyes",
+    "Descriptions": [
+        "Parece que una banda de usurpadores ha emergido con un plan. Temo que quieren hacerse con el casco del Rey Amarillo y lo reclaman como tal. ¿Por qué no nos haces el favor y acabas con ellos de una vez por todas? Estoy harto de esta leyenda y de la gente que se lo cree todo.",
+        "Vamos que esperas, no podré dormir esta noche si no acabas con tu misión.",
+        "Parece que después de muchos enfrentamientos y momentos de tensión, has logrado desenmascarar a todos lo usurpadores y exponerlos ante los demás supervivientes. Creo que por hoy me dejaré de historias, no traen más que desgracias. Toma, coge lo que te mereces."
+    ],
+    "ObjectiveText": "Acaba con los impostores.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        107,
+        108
+    ],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

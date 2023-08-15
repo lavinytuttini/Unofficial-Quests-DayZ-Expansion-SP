@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 15,
+    "ID": 100,
+    "Type": 1,
+    "Title": "El trabajo de una rata sucia",
+    "Descriptions": [
+        "Mierda, ¿quién eres? ¿Te llamas %1? Pensé que ya nos habíamos encargado de ti. ** (Te mira fijamente por un momento y luego comienza a sonreír) ** Ah, no importa... Hoy es tu día de suerte ¡Amigo! Si me haces un pequeño favor, me aseguraré de que salgas de este lugar lo antes posible. ¡Lo juro por la barba de mi madre! Todo lo que tienes que hacer es llevar esta NOTA a mi inútil colega Steve y pídele que la lea, luego te dará algo. ¡Tráemelo! Puedes encontrar a Steve en el pequeño pueblo al final de la calle en el noroeste. ¡Asegúrate de que lea la nota y no regreses con las manos vacías!",
+         "¡¿Pensé que había dejado claro lo que tienes que hacer?! ¡Ve con Steve ahora y no vuelvas con las manos vacías!",
+         "Mira eso... Otro pequeño bambi en los bosques de la muerte..."
+    ],
+    "ObjectiveText": "Entrega la nota y habla con Steve.",
+    "FollowUpQuest": 101,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

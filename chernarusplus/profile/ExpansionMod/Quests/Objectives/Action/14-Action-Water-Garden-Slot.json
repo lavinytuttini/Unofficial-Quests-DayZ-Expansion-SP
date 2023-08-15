@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 14,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Riega una parte del jardín",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionWaterGardenSlot"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

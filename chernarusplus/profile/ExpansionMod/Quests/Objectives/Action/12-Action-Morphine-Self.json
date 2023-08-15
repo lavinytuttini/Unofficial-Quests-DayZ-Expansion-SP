@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 12,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Inyéctate morfina",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionInjectMorphineSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

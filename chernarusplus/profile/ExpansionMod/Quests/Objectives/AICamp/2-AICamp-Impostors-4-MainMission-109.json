@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 18,
+    "ID": 2,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Elimina a los 5 impostores que se hacen pasar por el Rey Amarillo",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                6001.374023, 
+				275.266724, 
+				10349.047852
+            ],
+            [
+                5963.747559, 
+				267.497437, 
+				10344.594727
+            ],
+            [
+                5931.958496, 
+				268.845398, 
+				10297.774414
+            ],
+            [
+                5985.321289, 
+				267.642426, 
+				10368.838867
+            ],
+            [
+                5976.917480, 
+				267.600372, 
+				10322.446289
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "YellowKingLoadout",
+        "NPCAccuracyMin": 0.0,
+        "NPCAccuracyMax": 0.0,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}

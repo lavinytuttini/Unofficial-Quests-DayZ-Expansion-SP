@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 4,
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCKaito",
+    "IsAI": 0,
+    "Position": [
+        9075.161133,
+		245.133682,
+		8052.897949
+    ],
+    "Orientation": [
+        -178.599991,
+		0.0,
+		0.0
+    ],
+    "NPCName": "Doctor Doc",
+    "DefaultNPCText": "¡Increíble! Eres un superviviente fuerte. Descansa y recupérate, seguirás necesitando esa valentía para sobrevivir en este mundo hostil.",
+    "NPCLoadoutFile": "DoctorDocLoadout",
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
+}

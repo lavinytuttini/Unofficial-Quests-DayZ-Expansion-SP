@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 7,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Mata y recoge la piel de un oso.",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "BearPelt"
+        }
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Entregar Artículos",
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 15,
+    "ID": 104,
+    "Type": 1,
+    "Title": "Eliminando la última patrulla [G]",
+    "Descriptions": [
+        "Algunos bandidos han acampado en Devils Castle y han estado disparando contra los pueblos cercanos. Hay que acabar con ellos",
+        "Dirígete al Castillo del Diablo y elimina a los bandidos. Son un grupo pequeño, pero están bien armados y son peligrosos. Ten cuidado.",
+        "Buen trabajo, nos vendrían bien más personas como tú. Aquí está tu recompensa."
+    ],
+    "ObjectiveText": "Mata a todas las unidades del grupo de patrulla de bandidos en Devil's Castle.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 800,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 18,
+            "ID": 4,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [103],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

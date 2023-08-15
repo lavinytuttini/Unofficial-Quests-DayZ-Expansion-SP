@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 6,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Inyectate una bolsa de sangre",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionCollectBloodSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

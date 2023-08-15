@@ -1,0 +1,77 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Elimina 10 bandidos en Staroye",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                10129.355469, 
+				246.486984, 
+				5386.694824
+            ],
+            [
+                10125.338867, 
+				250.460312, 
+				5409.399414
+            ],
+            [
+                10138.038086, 
+				248.644806, 
+				5493.450684
+            ],
+            [
+                10105.458008, 
+				245.429413, 
+				5463.770508
+            ],
+            [
+                10090.173828, 
+				246.440643, 
+				5481.248047
+            ],
+            [
+                10044.222656, 
+				256.168213, 
+				5526.980957
+            ],
+            [
+                10218.762695, 
+				237.328598, 
+				5443.826172
+            ],
+            [
+                10189.581055, 
+				240.256073, 
+				5422.212402
+            ],
+            [
+                10145.687500, 
+				245.271301, 
+				5419.099609
+            ],
+            [
+                10127.016602, 
+				245.278915, 
+				5446.890137
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "West",
+        "NPCLoadoutFile": "BanditLoadout",
+        "NPCAccuracyMin": 0.0,
+        "NPCAccuracyMax": 0.0,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}

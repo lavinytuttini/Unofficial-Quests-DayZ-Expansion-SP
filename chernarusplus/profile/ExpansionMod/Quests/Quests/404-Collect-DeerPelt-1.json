@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 404,
+    "Type": 1,
+    "Title": "De piel suave",
+    "Descriptions": [
+        "Las noches comienzan a ser más frías, necesitamos algunas pieles de ciervo para hacer mantas.",
+        "Mata un ciervo y llévale su piel a Chester en Green Mountain.",
+        "Dulce, aquí está tu recompensa."
+    ],
+    "ObjectiveText": "Mata y recoge la piel de un ciervo.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 6,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

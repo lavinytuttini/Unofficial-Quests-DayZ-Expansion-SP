@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 202,
+    "Type": 1,
+    "Title": "Exterminio civil [G]",
+    "Descriptions": [
+        "¡La batalla por nuestra supervivencia continúa! Nos enfrentamos a una horda de zombis que se ha reunido en los pueblos de alrededores de nuestro campamento. Es hora de unir fuerzas y liberar nuestra zona de este peligro inminente. ¿Tienes lo que se necesita para ser un cazador de zombis intrépido? ¡Únete a nosotros en la gran misión de exterminar a los 100 zombis que amenazan nuestra seguridad!",
+        "Elimina en equipo a 100 infectados para proteger lo que queda de la humanidad. ¡La supervivencia depende de tu valentía y destreza!",
+        "Has sobrepasado nuestras expectativas superviviente. En el sobre tienes tu recompensa, cógela."
+    ],
+    "ObjectiveText": "Mata a 100 civiles infectados. Pero solo si te ves capaz.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1600,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 4,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 600,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

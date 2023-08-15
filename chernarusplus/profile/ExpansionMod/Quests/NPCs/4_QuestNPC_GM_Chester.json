@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 4,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCOliver",
+    "IsAI": 0,
+    "Position": [
+        3690.968750,
+		402.100006,
+		5962.904297
+    ],
+    "Orientation": [
+        93.590202,
+		0.000000,
+		0.000000
+    ],
+    "NPCName": "Chester",
+    "DefaultNPCText": "¿Tú también crees que este apocalipsis zombi es culpa de los extraterrestres, eh?",
+    "NPCLoadoutFile": "ChesterLoadout",
+    "IsStatic": 0,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39
+}

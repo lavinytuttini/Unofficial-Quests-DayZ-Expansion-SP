@@ -1,0 +1,17 @@
+{
+	"ConfigVersion": 18,
+	"ID": 3,
+	"ObjectiveType": 3,
+	"ObjectiveText": "Llega al pueblo",
+	"TimeLimit": -1,
+	"Position": [
+		10007.346680, 
+		262.417450, 
+		5690.621582
+	],
+	"MaxDistance": 20.0,
+	"MarkerName": "Llega al pueblo",
+	"ShowDistance": 1,
+	"TriggerOnEnter": 1,
+	"TriggerOnExit": 0
+}

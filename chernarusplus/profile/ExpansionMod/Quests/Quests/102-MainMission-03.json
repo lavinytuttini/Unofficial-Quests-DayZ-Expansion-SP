@@ -1,0 +1,79 @@
+{
+    "ConfigVersion": 15,
+    "ID": 102,
+    "Type": 1,
+    "Title": "El paquete de Peter",
+    "Descriptions": [
+        "Oh, claro, esto es lo que Peter quiere. Llévaselo y estará satisfecho. ¡Ni siquiera pienses en abrir el paquete! Solo ve y llévaselo.",
+			"¿Qué haces todavía aquí? ¡Ve con Peter!",
+			"¿Por qué has tardado tanto?… ¿Conseguiste lo que quería? ** (Él mira el paquete con los ojos muy abiertos y te lo arranca de las manos) ** ¡Bien!… ¿Qué? ¿Tu salida? Bueno qué debo decir, pero te mentí. No hay manera de salir de este infierno, y morirás aquí como todos nosotros. Puedes tener esta mochila y probar suerte por ahí. Lo siento, te mentí, pero todos tenemos que sobrevivir aquí de alguna manera. Te deseo buena suerte allá afuera... La necesitarás."
+    ],
+    "ObjectiveText": "Vuelve con Peter y dale el paquete de Steve.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "TaloonBag_Blue",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "TaloonBag_Green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "TaloonBag_Orange",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "TaloonBag_Violet",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        101
+    ],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

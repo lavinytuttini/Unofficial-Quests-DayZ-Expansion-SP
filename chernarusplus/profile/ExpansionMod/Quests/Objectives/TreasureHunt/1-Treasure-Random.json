@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Encuentra el tesoro perdido.",
+    "TimeLimit": -1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            2936.47998046875,
+            350.40399169921877,
+            6369.39013671875
+        ],
+        [
+            3143.35009765625,
+            365.7760009765625,
+            6942.0400390625
+        ],
+        [
+            5233.509765625,
+            290.8810119628906,
+            6246.3701171875
+        ]
+    ],
+    "Loot": [
+		{
+            "Name": "SkullMask",
+            "Attachments": [],
+            "Chance": 0.1,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+		{
+            "Name": "HumanSkull",
+            "Attachments": [],
+            "Chance": 0.3,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+		{
+            "Name": "Ragged_Eyepatch",
+            "Attachments": [],
+            "Chance": 0.3,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        },
+		{
+            "Name": "Poncho_Black",
+            "Attachments": [],
+            "Chance": 0.3,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Variants": []
+        }
+	],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0
+}

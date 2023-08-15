@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 15,
+    "ID": 108,
+    "Type": 1,
+    "Title": "El Hambre sin Fin",
+    "Descriptions": [
+        "Me parece una historia de mierda, pero creo que ya estamos llegando al punto álgido de esta leyenda. Dame un poco más de tiempo mientras me informo del desenlace. Venga tira.",
+        "Creo que aún queda algo de tiempo, ¿por qué no terminas lo que estás haciendo?",
+        "Cuando ese miembro del grupo regresó de su experiencia, el Casco Amarillo ya no era solo una leyenda, sino una herramienta para compartir conocimientos y valores con aquellos que lo merecían. A partir de ese momento, el legado del Rey Amarillo y su Casco vivieron en los corazones y mentes de aquellos que fueron tocados por su sabiduría, inspirándolos a llevar al mundo hacia un futuro brillante y compasivo, donde la tecnología se convertía en una aliada, no una amenaza, para la humanidad. ¿Vaya mierda verdad? Aquí tienes, te lo has ganado."
+    ],
+    "ObjectiveText": "Acaba con 10 infectados.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 350,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 150,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        106
+    ],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

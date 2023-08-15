@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 18,
+    "ID": 3,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Planta semillas de calabaza",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionPlantSeed"
+    ],
+    "AllowedClassNames": [
+        "PumpkinSeeds"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

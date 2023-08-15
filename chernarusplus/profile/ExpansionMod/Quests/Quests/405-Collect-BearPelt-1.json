@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 405,
+    "Type": 1,
+    "Title": "De piel gruesa",
+    "Descriptions": [
+        "Las noches comienzan a ser más frías, necesitamos algunas pieles de oso para hacer mantas.",
+        "Mata un oso y llévale su piel a Chester en Green Mountain.",
+        "Dulce, aquí está tu recompensa."
+    ],
+    "ObjectiveText": "Mata y recoge la piel de un oso.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 5000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 7,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 300,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

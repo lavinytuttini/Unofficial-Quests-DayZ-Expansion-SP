@@ -1,0 +1,42 @@
+{
+    "ConfigVersion": 15,
+    "ID": 300,
+    "Type": 1,
+    "Title": "Bienvenido al Infierno",
+    "Descriptions": [
+        "PLACEHOLDER",
+        "¡Bienvenidos al infierno! Prepárate para una experiencia apocalíptica como ninguna otra. En este mundo devastado por la epidemia de zombis, solo los más fuertes y astutos sobreviven. Nuestro servidor te brindará un desafío implacable, donde cada decisión que tomes podría significar la diferencia entre la vida y la muerte. Aquí, encontrarás desesperación y peligro en cada esquina. Los recursos escasean, y la lucha por la supervivencia es constante. Forma alianzas con otros valientes supervivientes o desconfía de todos, la elección es tuya. Adéntrate en este desafío épico, enfrenta tus miedos y descubre hasta dónde llegan tus habilidades de supervivencia. ¡Que la suerte esté de tu lado, porque la necesitarás! ¡Bienvenido al infierno! Que tu viaje sea emocionante y lleno de momentos inolvidables.",
+        "PLACEHOLDER"
+    ],
+    "ObjectiveText": "Visita el campamento en el lugar marcado.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

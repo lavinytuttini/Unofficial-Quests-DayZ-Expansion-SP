@@ -1,0 +1,44 @@
+{
+    "ConfigVersion": 15,
+    "ID": 111,
+    "Type": 1,
+    "Title": "La Legendaria Espada del Cosmos",
+    "Descriptions": [
+        "Con determinación y el corazón palpipante, desenvainas la Espada del Cosmos y empiezas a sentir su poder fluir. Una horda de 10 zombies debería ser suficiente para probar si el arma es digna de su leyenda.",
+        "La espada emite destellos deslumbrantes mientras se balancea, debería serguir balanceándola encima de esos cráneos cadavéricos.",
+        "La tranquilidad vuelve, el sudor y el esfuerzo se mezclan con la energía implacable de la espada. Recuperas el aliento, deberías volver con el Doctor Doc."
+    ],
+    "ObjectiveText": "Acaba con 10 zombies utilizando la Espada del Cosmos.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 8,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		110
+	],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

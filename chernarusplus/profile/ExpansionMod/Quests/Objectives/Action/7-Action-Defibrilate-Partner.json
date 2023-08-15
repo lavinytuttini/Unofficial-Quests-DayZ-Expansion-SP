@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 7,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Desfibrila a un compañero",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDefibrilateTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

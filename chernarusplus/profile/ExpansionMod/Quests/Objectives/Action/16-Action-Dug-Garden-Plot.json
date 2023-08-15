@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 18,
+    "ID": 16,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Crea un jardín",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDigGardenPlot"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

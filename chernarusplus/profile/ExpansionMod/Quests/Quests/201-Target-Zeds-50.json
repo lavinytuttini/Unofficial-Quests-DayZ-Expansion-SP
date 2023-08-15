@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 15,
+    "ID": 201,
+    "Type": 1,
+    "Title": "Ejercito de Zombis",
+    "Descriptions": [
+        "Te necesitamos en el destacamento de zombis de nuevo, acaba con 50 zombis.",
+        "¿Aún no has terminado? ¡Vuelve cuando termines el trabajo!",
+        "Pensamos que los infectados se habían apoderado de tu trasero... Bueno, aquí está tu recompensa"
+    ],
+    "ObjectiveText": "Mata a 50 civiles infectados.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 800,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 3,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}
